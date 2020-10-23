@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Thiagarajar College of Engineering</string>
+    <string name="nav_header_subtitle">-where quality and ethics matter</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Overall map</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Department wise search</string>
+    <string name="menu_tools">Other Buildings</string>
+    <string name="menu_share">Class wise search</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
